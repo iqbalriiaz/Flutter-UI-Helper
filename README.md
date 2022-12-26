@@ -20,5 +20,12 @@ FloatingActionButton(
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
+| Header      |   ``` dart
+FloatingActionButton(
+                onPressed: () {},
+                child: Icon(Icons.arrow_back),
+                shape: CircleBorder(),
+                backgroundColor: Colors.grey,
+              )
+```     | Here's this   |
 | Paragraph   | Text        | And more      |
