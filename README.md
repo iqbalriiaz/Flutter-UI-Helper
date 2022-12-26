@@ -29,3 +29,8 @@ FloatingActionButton(
               )
 ```     | Here's this   |
 | Paragraph   | Text        | And more      |
+
+
+| Name | Signature Code                 |
+|------|--------------------------------|
+| Minhas Kamal | <pre>main(m,k){<br>  for(<br>    ;<br>    m%k--?:(k=m++);<br>    k^1?:printf("%i\|",m)<br>  );<br>}</pre> |
