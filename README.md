@@ -17,20 +17,6 @@ FloatingActionButton(
 ```
 
 
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      |   ``` dart
-FloatingActionButton(
-                onPressed: () {},
-                child: Icon(Icons.arrow_back),
-                shape: CircleBorder(),
-                backgroundColor: Colors.grey,
-              )
-```     | Here's this   |
-| Paragraph   | Text        | And more      |
-
-
 | Name | Signature Code                 |
 |------|--------------------------------|
 | Minhas Kamal | <pre>main(m,k){<br>  for(<br>    ;<br>    m%k--?:(k=m++);<br>    k^1?:printf("%i\|",m)<br>  );<br>}</pre> |
