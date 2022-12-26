@@ -5,7 +5,13 @@
 ### UI and UX (a few activities)
 Design  |  Code |
 :-------------------------:|:-------------------------:
-![image](https://github.com/iqbalriiaz/Flutter-UI-Helper/blob/main/res/floating_action_button.png)  |  fdf
+![image](https://github.com/iqbalriiaz/Flutter-UI-Helper/blob/main/res/floating_action_button.png)  |  ```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 
 
