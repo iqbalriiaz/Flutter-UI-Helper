@@ -19,9 +19,4 @@ FloatingActionButton(
 
 | Name | Signature Code                 |
 |------|--------------------------------|
-| Minhas Kamal | <pre>FloatingActionButton(
-                onPressed: () {},
-                child: Icon(Icons.arrow_back),
-                shape: CircleBorder(),
-                backgroundColor: Colors.grey,
-              )</pre> |
+| Minhas Kamal | <pre>FloatingActionButton( <br> onPressed: () {}, <br> child: Icon(Icons.arrow_back),<br> shape: CircleBorder(),<br> backgroundColor: Colors.grey,<br> )</pre> |
