@@ -6,12 +6,14 @@
 Design  |  Code |
 :-------------------------:|:-------------------------:
 ![image](https://github.com/iqbalriiaz/Flutter-UI-Helper/blob/main/res/floating_action_button.png)  |  
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+
+``` dart
+FloatingActionButton(
+                onPressed: () {},
+                child: Icon(Icons.arrow_back),
+                shape: CircleBorder(),
+                backgroundColor: Colors.grey,
+              )
 ```
 
 
