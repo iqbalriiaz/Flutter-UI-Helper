@@ -13,6 +13,7 @@
  )
  ```
 ### Mini Size
+```dart
  FloatingActionButton( 
    onPressed: () {}, 
    mini: true, 
@@ -20,7 +21,7 @@
    shape: CircleBorder(),
    backgroundColor: Colors.grey,
  )
-
+```
 
 ## Horizontal ListView Builder (5 container)
 
