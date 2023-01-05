@@ -1,15 +1,28 @@
 # Flutter-UI-Helper
 "Flutter UI Helper" repository contains CODE snippet of various widgets. The purpose is to help developers with the source code so that they can build a UI quickly and easily. 
 
+## FloatingActionButton
 
-| Design |  Code Snippet |
-|------|--------------------------------|
-| ![image](https://github.com/iqbalriiaz/Flutter-UI-Helper/blob/main/res/floating_action_button.png) | <b> Default Size </b> <pre> FloatingActionButton( <br>   onPressed: () {}, <br>   child: Icon(Icons.arrow_back),<br>   shape: CircleBorder(),<br>   backgroundColor: Colors.grey,<br> )  </pre> <b> Mini Size </b> <pre> FloatingActionButton( <br>   onPressed: () {}, <br>   mini: true, <br>   child: Icon(Icons.arrow_back),<br>   shape: CircleBorder(),<br>   backgroundColor: Colors.grey,<br> ) </pre> |
+### Default Size
+```dart
+ FloatingActionButton( 
+   onPressed: () {}, 
+   child: Icon(Icons.arrow_back),
+   shape: CircleBorder(),
+   backgroundColor: Colors.grey,
+ )
+ ```
+### Mini Size
+ FloatingActionButton( 
+   onPressed: () {}, 
+   mini: true, 
+   child: Icon(Icons.arrow_back),
+   shape: CircleBorder(),
+   backgroundColor: Colors.grey,
+ )
 
 
-# Flutter-Booster
-
-## Horizontal ListView Builder 
+## Horizontal ListView Builder (5 container)
 
 ``` dart
 Container(
@@ -39,7 +52,7 @@ Container(
             ),
 ```
 
-## Card
+## Card (a text and a image in a column)
 
 ```dart
  Container(
