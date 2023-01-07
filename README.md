@@ -56,7 +56,7 @@ Container(
 ## Card (a text and a image in a column)
 
 ```dart
- Container(
+ SizedBox(
                       height: 150,
                       width: 150,
                       child: Card(
