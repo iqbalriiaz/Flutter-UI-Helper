@@ -1,4 +1,4 @@
-# Flutter-UI-Helper
+# Flutter-UI-Helper.
 "Flutter UI Helper" repository contains CODE snippet of various widgets. The purpose is to help developers with the source code so that they can build a UI quickly and easily. 
 
 ## FloatingActionButton
